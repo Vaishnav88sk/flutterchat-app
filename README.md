@@ -16,8 +16,8 @@ FlutterChat is a simple and intuitive one-to-one chat application built with Flu
 ### Installation:
   - Clone the repository
      ```bash
-     git clone https://github.com/Vaishnav88sk/track-pocket-app.git
-     cd track-pocket-app
+     git clone https://github.com/Vaishnav88sk/flutterchat-app.git
+     cd flutterchat-app
   - Install the dependencies
      ```bash
      flutter pub get
