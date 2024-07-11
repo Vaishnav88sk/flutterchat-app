@@ -1,16 +1,31 @@
-# chat_app
+# FlutterChat App
 
-A new Flutter project.
+FlutterChat is a simple and intuitive one-to-one chat application built with Flutter, Firebase, and material3 design. It allows users to connect and communicate with each other seamlessly.
 
-## Getting Started
+## Features
+ - **Real-Time Messaging**: Send and receive messages instantly.
+ - **User Authentication**: Secure login and registration with email and password.
+ - **User Profiles**: Create and manage user profiles with display names and avatars.
+ - **Message Notifications**: Receive notifications for new messages.
+ - **Toggle theme**: Day and Night
 
-This project is a starting point for a Flutter application.
+## Getting started
+### Prerequisites
+  - Flutter SDK
+  - Dart SDK
+### Installation:
+  - Clone the repository
+     ```bash
+     git clone https://github.com/Vaishnav88sk/track-pocket-app.git
+     cd track-pocket-app
+  - Install the dependencies
+     ```bash
+     flutter pub get
+  - Run the app
+     ```bash
+     flutter run
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+  
+     
+    
