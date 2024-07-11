@@ -8,6 +8,7 @@ FlutterChat is a simple and intuitive one-to-one chat application built with Flu
  - **User Profiles**: Create and manage user profiles with display names and avatars.
  - **Message Notifications**: Receive notifications for new messages.
  - **Toggle theme**: Day and Night
+ - **Message History**: View and scroll through past conversations.
 
 ## Getting started
 ### Prerequisites
